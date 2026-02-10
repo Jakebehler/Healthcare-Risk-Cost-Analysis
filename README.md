@@ -16,3 +16,7 @@
 ## Strategic Business Application:
 - **Premium Optimization:** Recommend reallocating underwriting weight toward lifestyle indicators, as smoking and BMI materially outperform geographic variables in explaining cost variance.
 - **Targeted Wellness Programs:** Data identifies specific High-Risk clusters where preventative wellness initiatives could yield the highest ROI for the provider.
+
+## Links
+- Tableau Dashboard https://drive.google.com/file/d/1s527oyVR_nnCizXhkYwKM997kcTdOcqH/view?usp=share_link
+- Python Code https://drive.google.com/file/d/1-PQQUgVOZrWsDapzQuLaMi-blloKJg1U/view?usp=sharing
