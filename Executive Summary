@@ -1,0 +1,21 @@
+Executive Summary: Healthcare Risk & Cost Analysis
+Jake (John) Behler
+3/25/2026
+
+Executive Summary:
+Smokers drive medical costs up by approximately 280%, representing an average increase of $23,848 per patient.
+This analysis is based on an OLS regression model with an R-Squared of 0.7509, indicating that the model explains 75% of the variance in total charges.
+
+Strategic Overview:
+Smoking & BMI
+Key Finding: While high BMI increases costs for all patients, it acts as a significant cost multiplier for smokers.
+Data Point: An Obese Smoker incurs average charges of $41,558, compared to just $8,843 for an obese non-smoker.
+Action: Prioritize smoking support programs for patients in the Obese BMI category, where the potential impact on reducing charges is greatest.
+
+Demographic Risk Profiles
+Family Size: Families with 2-4 children see a slight but measurable increase in average charges compared to smaller families.
+Action: Prioritize telehealth-first options for households with 2-4 children to provide more accessible and cost-effective care for minor health needs.
+
+Regional Volatility
+Regional Finding: The Southeast region has the highest average charges ($14,735) and the most extreme financial outliers, with some individual smoker cases exceeding $62,000.
+Action: Investigate Southeast region charge patterns to better understand and address the drivers of higher costs in that area.
