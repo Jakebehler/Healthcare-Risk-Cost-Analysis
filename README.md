@@ -16,7 +16,3 @@
 ## Strategic Business Application:
 - **Cost Driver Prioritization:** Analysis suggests that lifestyle indicators such as smoking and BMI are significantly stronger predictors of healthcare costs than geographic variables, and should be weighted accordingly in cost modeling and resource allocation.
 - **Targeted Wellness Programs:** Data identifies specific high-risk clusters where preventative wellness initiatives could have the greatest impact on reducing costs and improving outcomes.
-
-## Links
-- [Tableau Dashboard](https://drive.google.com/file/d/1s527oyVR_nnCizXhkYwKM997kcTdOcqH/view?usp=share_link)
-- [Python Code](https://drive.google.com/file/d/1-PQQUgVOZrWsDapzQuLaMi-blloKJg1U/view?usp=sharing)
